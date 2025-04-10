@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit generated files
+.streamlit/
+
+# Output files
+*.mp4
+*.mp3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+# Virtual environment
+venv/
+env/
