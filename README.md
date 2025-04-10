@@ -2,6 +2,8 @@
 
 A Python application that allows users to download YouTube videos or entire playlists in various resolutions (up to 4K) using a simple Streamlit web interface. It supports batch downloading from multiple URLs or playlists, merging video and audio streams with FFmpeg, and provides progress tracking.
 
+<img src="home.png" style="border-radius: 15px; border: 2px solid red;" alt="Home Image" />
+
 ## Features
 
 - **Batch Downloading**: Download multiple videos by entering URLs (comma-separated or one per line) or a YouTube playlist URL.
